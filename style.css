@@ -4,6 +4,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #D6E1F0;
 }
 
 main {
@@ -14,19 +15,37 @@ main {
 }
 
 .card {
-  width: 30rem;
+  width: 26rem;
+  padding: 1.6rem;
+  padding-bottom: 3.6rem;
   display: flex;
   flex-direction: column;
   align-items: center;
+  row-gap: 2rem;
+  background-color: white;
+  border-radius: 1.8rem;
 }
 
 .card * {
-  flex: 1;
   text-align: center;
 }
 
+.title {
+  font-weight: bold;
+  font-size: 2.05rem;
+}
+
+.subtitle {
+  color: #999A9E;
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .image {
-  width: 80%;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 1rem;
 }
 
 .attribution {
