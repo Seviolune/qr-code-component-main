@@ -13,7 +13,7 @@ I'm just trying to figure out how Github works along with everything else.
 ### Links
 
 - Solution URL: [https://github.com/seviolune/qr-code-component-main](https://github.com/seviolune/qr-code-component-main)
-- Live Site URL: [https://seviolune.github.io/qr-code-component-main/](https://seviolune.github.io/qr-code-component-main/)
+- Live Site URL: [https://seviolune.github.io/qr-code-component-main](https://seviolune.github.io/qr-code-component-main)
 
 ## Author
 
